@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971691647316",
+    "firebase_url": "https://fblloginfb.firebaseio.com",
+    "project_id": "fblloginfb",
+    "storage_bucket": "fblloginfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971691647316:android:13a17dd53338c239",
+        "android_client_info": {
+          "package_name": "com.lookie.dongjunekim.fbl_login_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971691647316-2g4knile8kjnv6o3iads7q1udq1c5ibm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lookie.dongjunekim.fbl_login_fb",
+            "certificate_hash": "8b0d62903c30cb6cfb7a8d48f6e2046599171def"
+          }
+        },
+        {
+          "client_id": "971691647316-pbgavs6j0s92c05a430kbip0u305tges.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUq71FtGi-WXmM1HMcg1WBdtn97vWADes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971691647316-pbgavs6j0s92c05a430kbip0u305tges.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
